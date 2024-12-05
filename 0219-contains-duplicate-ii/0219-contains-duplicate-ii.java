@@ -9,7 +9,7 @@ class Solution {
                 return true;
             }
             window.add(nums[i]);
-            // Ensure the sliding window contains at most `k` elements
+          
             if (window.size() > k) {
                 window.remove(nums[i - k]);
             }
