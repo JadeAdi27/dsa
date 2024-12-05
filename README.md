@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/JadeAdi27/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JadeAdi27/dsa/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/JadeAdi27/dsa/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
