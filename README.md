@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/JadeAdi27/dsa/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/JadeAdi27/dsa/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/JadeAdi27/dsa/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/JadeAdi27/dsa/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JadeAdi27/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
