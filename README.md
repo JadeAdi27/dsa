@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JadeAdi27/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JadeAdi27/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/JadeAdi27/dsa/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/JadeAdi27/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JadeAdi27/dsa/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/JadeAdi27/dsa/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/JadeAdi27/dsa/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/JadeAdi27/dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
