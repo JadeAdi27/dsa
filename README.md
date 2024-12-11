@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/JadeAdi27/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/JadeAdi27/dsa/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/JadeAdi27/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/JadeAdi27/dsa/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JadeAdi27/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JadeAdi27/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/JadeAdi27/dsa/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/JadeAdi27/dsa/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JadeAdi27/dsa/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/JadeAdi27/dsa/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JadeAdi27/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/JadeAdi27/dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
